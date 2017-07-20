@@ -1,5 +1,7 @@
 package com.example.jinphy.chapter_7;
 
+import android.content.AsyncQueryHandler;
+
 /**
  * Created by jinphy on 2017/7/19.
  */
